@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local monitoring data
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/patient_status.json
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+
+# IDE settings
+.vscode/
